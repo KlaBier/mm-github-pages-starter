@@ -3,6 +3,19 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I started my experiences with the Microsoft Servers Systems in 1998 and yes, I am one of the early guys who are familiar with Primary and Backup Domain Controller and Master- and Child Domains. But that's history and it's been a long time ago 😄
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+To be honest, I am a little bit proud to be part of the growing process of the entire Microsoft Identity Technologies from the beginning, with the early Windows Server Active Directory with Windows Server 2000 till today, where customers go to the cloud, facing with hybrid scenarios and where user are getting access from around the globe. A challenging world from an identity perspective
+
+I Love that Identity Technology, and that's the reason why it is my job for so many years. I have a full time job as an Solution Architect at cellent GmbH and I am supporting customers with questions and topics around Active Directory Family and topics in Azure AD or related technolgies in the Microsoft Cloud.
+
+I am also a occasional author and publish from time to time articles in the paper press or in the internet.
+
+The main reason for that blog is, that I am getting many informations from the internet and from the identity community. I follow a couple of realy impressing  guys which makes my job a little bit easier with inforamtions and experiences that they or others provide in different medias. <!--This is a comment--> Because of this I started that blog, to give something back, from my experience in daily projects and from my development and my learning process.
+
+{: .notice--success}
+
+Quality is very important for me. When you find something on my page that can be imporoved or what you think is wrong or can be done in an other or better way, feel free to get in touch with me. I know that we live in a fast growing technology world. Topics, which were new yesterday, can be old by tommorow, Microsoft did a very good job for this.
+
+I live in the wonderfull Murnau, which is in the Garmisch-Partenkirchen area, close to the Austria border. I love sports, especialy running in the mountains. Nature is for me to consider something from my job or from my live.
+
