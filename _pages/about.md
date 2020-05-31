@@ -15,7 +15,7 @@ The main reason for that blog is, that I am getting many informations from the i
 
 {: .notice--success}
 
-Quality is very important for me. When you find something on my page that can be imporoved or what you think is wrong or can be done in an other or better way, feel free to get in touch with me. I know that we live in a fast growing technology world. Topics, which were new yesterday, can be old by tommorow, Microsoft did a very good job for this.
+Quality is very important for me. When you find something on my page that can be improved or what you think is wrong or can be done in an other or better way, feel free to get in touch with me. I know that we live in a fast growing technology world. Topics, which were new yesterday, can be old by tommorow, Microsoft did a very good job for this.
 
-I live in the wonderfull Murnau, which is in the Garmisch-Partenkirchen area, close to the Austria border. I love sports, especialy running in the mountains. Nature is for me to consider something from my job or from my live.
+I live in the wonderful Murnau, which is in the Garmisch-Partenkirchen area, close to the Austria border. I love sports, especialy running in the mountains. Nature is for me to consider something from my job or from my live.
 
