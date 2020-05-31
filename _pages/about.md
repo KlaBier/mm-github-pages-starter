@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I started my experiences with the Microsoft Servers Systems in 1998 and yes, I am one of the early guys who are familiar with Primary and Backup Domain Controller and Master- and Child Domains. But that's history and it's been a long time ago 😄
+I started my experiences with the Microsoft Servers Systems in 1998 and yes, I am one of the early guys who are familiar with Primary and Backup Domain Controller and Master- and Child Domains. But that's history and a long time ago 😄
 
 To be honest, I am a little bit proud to be part of the growing process of the entire Microsoft Identity Technologies from the beginning, with the early Windows Server Active Directory with Windows Server 2000 till today, where customers go to the cloud, facing with hybrid scenarios and where user are getting access from around the globe. A challenging world from an identity perspective
 

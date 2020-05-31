@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "Klaus Bierschenk"
-  avatar : "/mypics/klaus.jpeg"
+  avatar : "/MyPics/klaus.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
@@ -119,3 +119,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
