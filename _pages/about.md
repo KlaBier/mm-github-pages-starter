@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 I started my experiences with the Microsoft Server Technologies in 1998 and yes, I am one of the early guys who are familiar with Primary and Backup Domain Controller and Master- and Child Domains. But that's a long time ago 😄
