@@ -13,7 +13,5 @@ I am also a occasional author and publish from time to time articles in the pape
 The motivation for this blog is that I am getting lot's of informations from the internet and from the identity community. And my motivation is <u><b>not</b></u> making money in any kind with this block.
 I follow a couple of realy impressing  guys which makes my job sometimes easier with informations and experiences that they provide in different medias. Because of this I started that blog - to give something back, from my experience in daily projects and from my development and my learning process - without financial interest
 
-If you find something on my page that can be improved or what you think is wrong or can be done in another or better way, feel free to get in touch with me. I know that we live in a fast growing technology world. Topics, which were new yesterday, can be old by tommorow, Microsoft did a very good job for this.
-
 I live in the wonderful Murnau, which is in the Garmisch-Partenkirchen area, close to the Austria border. I love sports, especialy running in the mountains. Nature is for me to consider something from my job or from my live.
 
