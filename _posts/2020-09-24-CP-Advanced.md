@@ -1,5 +1,5 @@
 ---
-title: "More Infos on Azure AD Coud Provisioning and news from Ignite 2020"
+title: "More Infos on Azure AD Cloud Provisioning and news from Ignite 2020"
 date: 2020-09-24T10:59:57
 #search: true
 #classes:
