@@ -7,12 +7,7 @@ classes: wide
 Please find below a list of my publications:
 
 
-
-
-
-Veröffentlichungen:
-
-| Beitrag:                                                     | Erschienen:                                               |
+| Article:                                                     | Published:                                               |
 | ------------------------------------------------------------ | --------------------------------------------------------- |
 | **Azure Security Center richtig nutzen**                     | April 2021, IT-Administrator                              |
 | **2tlg. Workshopserie  zum Thema Zero Trust und Azure Active Directory** | Okt/Nov 2020, IT-Administrator                            |
