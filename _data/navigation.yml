@@ -9,5 +9,7 @@ main:
     url: /Disclaimer/
   - title: "Privacy"
     url: /Privacy/
+  - title: "Publications"
+    url: /Publications/
   - title: "About"
     url: /about/
