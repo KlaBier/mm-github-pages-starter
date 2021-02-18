@@ -45,7 +45,7 @@ tags:
 ---
 
 My customers asks me often: when is a user identity trusted? This is an important question that must be answered when users from an IT landscape access services in the cloud. In Azure AD, Microsoft provides tools that allow you to control and document access.
-**"Zero Trust"** is a familiar buzzword here. In this two-part workshop series, we will take a look at what is important here and how identities can be protected, whether for standard users or for administrators
+**"Zero Trust"** is a familiar buzzword here. In this blog series, we will take a look at what is important here and how identities can be protected, whether for standard users or for administrators
 
 ## Whats the point here?
 
