@@ -4,7 +4,7 @@ title: "Publications"
 classes: wide
 ---
 
-Please find below a list of my publications. Most of the them are published in paper press in Heinemann Verlag or Heise Verlag. They can be found for download on their websites
+Please find below a list of my publications. Most of them are published in paper press in Heinemann Verlag or Heise Verlag. They can be found for download on their websites
 
 
 | Article:                                                     | Published:                                               |
