@@ -67,6 +67,7 @@ Part of the blog series is my favourite collection of Azure Identity Technologie
 - Conditional Access
 - Access Reviews
 - Monitoring critical rolles and groups
+- Passwordless
 
 
 ## Summarize
