@@ -50,7 +50,7 @@ My customers often ask me: when is a user identity trustworthy? This is an impor
 ## Whats the point here?
 
 If users at the company site or from a remote office access services located in the local data center, the situation regarding trusted identities is relatively simple: the users are connected to the company network, whether devices are plugged directly into the network socket or connected to the WLAN. The same applies to access from outside, since a VPN is used here. In this context, the term perimeter network often appears. It describes a network area protected by a firewall. In theory, access to services there can be classified as secure and trustworthy.
-The emphasis here is on "theory", because in practice administrators always have to deal with threats, whether internal or external. Thoxe must be secured in any case, regardless of where access is coming from. However, the topic comes into focus particularly in the cloud context, since access with initial authentication takes place via the Internet, which brings us directly to our topic.
+The emphasis here is on "theory", because in practice administrators always have to deal with threats, whether internal or external. Those must be secured in any case, regardless of where access is coming from. However, the topic comes into focus particularly in the cloud context, since access with initial authentication takes place via the Internet, which brings us directly to our topic.
 
 ## Ban everything first
 
