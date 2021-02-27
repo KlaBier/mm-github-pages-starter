@@ -1,5 +1,5 @@
 ---
-title: "Zero Trust in Azure Identity - Part 1: Overview of the Journey"
+title: "Zero Trust in Azure Identity: Overview of the Journey"
 date: 2021-01-12T10:59:57
 #search: true
 #classes:
