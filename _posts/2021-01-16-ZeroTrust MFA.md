@@ -1,5 +1,5 @@
 ---
-title: "Zero Trust in Azure Identity - Part 3: MFA! Is there a right way?"
+title: "Zero Trust in Azure Identity - Part 2: MFA! Is there a right way?"
 date: 2021-01-16T14:59:57
 #search: true
 #classes:

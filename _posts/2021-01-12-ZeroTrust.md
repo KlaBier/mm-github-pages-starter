@@ -62,11 +62,11 @@ This brings us back to the term "Zero Trust". This has been around for a long ti
 
 Part of the blog series is my favourite collection of Azure Identity Technologies. The tool family is growing and Microsoft did a cool job with lots of tools and features around the Azure Identity portfolio. I wrote one article for each of the below technologies:
 
-- Tenant Security
-- MFA deployment
-- Conditional Access
-- Access Reviews
-- Monitoring critical rolles and groups
+- [Tenant Security](https://nothingbutcloud.net/azuread/security/identity/ZeroTrust-Tenant-Security/){:target="_blank"}
+- [MFA deployment](https://nothingbutcloud.net/azuread/security/identity/ZeroTrust-MFA/){:target="_blank"}
+- [Conditional Access](https://nothingbutcloud.net/azuread/security/identity/ZeroTrust-CA/){:target="_blank"}
+- [Access Reviews](https://nothingbutcloud.net/azuread/security/identity/ZeroTrust-AR/){:target="_blank"}
+- [Monitoring critical rolles and groups](https://nothingbutcloud.net/azuread/security/identity/ZeroTrust-Monitoring/){:target="_blank"}
 - Passwordless
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Zero Trust in Azure Identity - Part 2: Tenant Security"
+title: "Zero Trust in Azure Identity - Part 1: Tenant Security"
 date: 2021-01-16T09:59:57
 #search: true
 #classes:

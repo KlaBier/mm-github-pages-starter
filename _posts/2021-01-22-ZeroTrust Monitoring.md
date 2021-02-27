@@ -1,5 +1,5 @@
 ---
-title: "Zero Trust in Azure Identity - Part 6: Monitoring critical roles"
+title: "Zero Trust in Azure Identity - Part 5: Monitoring critical roles"
 date: 2021-01-22T22:01:32
 #search: true
 #classes:

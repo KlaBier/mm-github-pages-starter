@@ -1,5 +1,5 @@
 ---
-title: "Zero Trust in Azure Identity - Part 5: Access Reviews"
+title: "Zero Trust in Azure Identity - Part 4: Access Reviews"
 date: 2021-01-19T13:22:32
 #search: true
 #classes:

@@ -1,5 +1,5 @@
 ---
-title: "Zero Trust in Azure Identity - Part 4: Conditional Access"
+title: "Zero Trust in Azure Identity - Part 3: Conditional Access"
 date: 2021-01-18T19:01:57
 #search: true
 #classes:
