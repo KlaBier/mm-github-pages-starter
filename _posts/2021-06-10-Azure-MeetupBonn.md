@@ -53,7 +53,7 @@ tags:
 
 ## Session Powerpoint material
 
-All my demo's run perfect and stable in the session.
+All my demos run perfect and stable in the session.
 
 Murphy, my friend, thanks for that 😀
 
