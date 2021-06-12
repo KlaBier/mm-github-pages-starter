@@ -55,8 +55,8 @@ tags:
 
 All my demos run perfect and stable in the session.
 
-Murphy, my friend, thanks for that 😀
+Murphy, thanks for that 😀
 
 I have enjoyed the evening and being a speaker at the [Meetup in Bonn](https://www.meetup.com/de-DE/Azure-Bonn-Meetup/events/277714201/.)
 
-Please find my slide linked here: [Session slides](/MySlides/Meetup_10.06.2021.pdf)
+Please find my slides here: [Session slides](/MySlides/Meetup_10.06.2021.pdf)
