@@ -1,5 +1,6 @@
 ---
 title: "Azure Meetup Bonn (10.06.2021) - Azure AD Connect - Schaltzentrale der hybriden Identitätsinfrastruktur (German session)"
+# author: Klaus Bierschenk
 date: 2021-06-10T22:01:32
 search: true
 #classes:
