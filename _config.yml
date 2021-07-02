@@ -124,7 +124,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
-      share: true
+      share: true # true will show fb, twitter etc. icons below post article
       related: true
   # _pages
   - scope:
