@@ -1,7 +1,7 @@
 ---
 title: "How to change language in M365 Portal for synchronized identity"
 # author: Klaus Bierschenk
-date: 2021-06-10T22:01:32
+date: 2021-07-03T22:01:32
 search: true
 #classes:
 #  - wide
@@ -61,7 +61,7 @@ and when you have set it already in English language
 <figure class="medium">
   <a href="/MyPics/2021-06-23-ChangeLanguageinM365Portal_VI.png"><img src="/MyPics/2021-06-23-ChangeLanguageinM365Portal_IV.png"></a>
 </figure>
-Now the whole thing becomes clumsy at the latest when you are the administrator yourself, as in my case. In my daily work the language was German, it was ok and the whole thing does not belong to my main issues. But whenever I try to change the language, I wonder at which central place this setting has to be made? On the myaccount.microsoft.com page? Or in some other place in the M365 portal?
+Now the whole thing becomes clumsy at last when you are the administrator yourself, as in my case. In my daily work the language was German, it was ok and the whole thing does not belong to my main issues. But whenever I try to change the language, I wonder at which central place this setting has to be made? On the myaccount.microsoft.com page? Or in some other place in the M365 portal?
 
 This week I didn't have the topic with the language in the M365 portal present at all and I was in completely different topics in the Active Directory and with the attributes. But after looking through the list of attributes, I noticed the **preferredLanguage** attribute
 
